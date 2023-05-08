@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-script-that-uses-an-anonymous-block
+<br>
+Write a script that uses an anonymous block to include two SQL statements coded as a transaction to delete the row with a customer ID of 8 from the Customers table. To do this, you must first delete all addresses for that order from the Addresses table. If these statements execute successfully, commit the changes. Otherwise, roll back the changes.
